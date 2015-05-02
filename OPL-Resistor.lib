@@ -1,0 +1,6487 @@
+EESchema-LIBRARY Version 2.3  02/05/2015-06:43:51
+# Converted with eagle-lbr2kicad.ulp Version 0.93
+# Device count = 222
+#
+# Dev Name: DIP-RES-0R-5%-1/4W(2P-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020004
+# Technologies: 
+#
+DEF DIP-RES-0R-5%-1/4W(2P-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-0R-5%-1/4W(2P-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020004" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-1.5K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020067
+# Technologies: 
+#
+DEF DIP-RES-1.5K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-1.5K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020067" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-1.5R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020041
+# Technologies: 
+#
+DEF DIP-RES-1.5R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-1.5R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020041" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-1K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020000
+# Technologies: 
+#
+DEF DIP-RES-1K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-1K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020000" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-1M-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020005
+# Technologies: 
+#
+DEF DIP-RES-1M-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-1M-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020005" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-2.2K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020010
+# Technologies: 
+#
+DEF DIP-RES-2.2K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-2.2K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020010" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-3.3K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020042
+# Technologies: 
+#
+DEF DIP-RES-3.3K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-3.3K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020042" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-4.7K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020012
+# Technologies: 
+#
+DEF DIP-RES-4.7K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-4.7K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020012" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-4.7R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020052
+# Technologies: 
+#
+DEF DIP-RES-4.7R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-4.7R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020052" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-6.8K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020069
+# Technologies: 
+#
+DEF DIP-RES-6.8K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-6.8K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020069" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-10K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020001
+# Technologies: 
+#
+DEF DIP-RES-10K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-10K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020001" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 ~ -150 0 100 R 40 40 1 1 P 
+X 2 ~ 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-10R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020016
+# Technologies: 
+#
+DEF DIP-RES-10R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-10R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020016" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-22K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020018
+# Technologies: 
+#
+DEF DIP-RES-22K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-22K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020018" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-47K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020022
+# Technologies: 
+#
+DEF DIP-RES-47K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-47K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020022" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-47R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020014
+# Technologies: 
+#
+DEF DIP-RES-47R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-47R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020014" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-100K-5%-1/6W(PR-D1.8XL3.3MM)
+# Package Name: PR-D1.8*L3.3MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020040
+# Technologies: 
+#
+DEF DIP-RES-100K-5%-1/6W(PR-D1.8XL3.3MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-100K-5%-1/6W(PR-D1.8XL3.3MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D1.8*L3.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020040" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-100R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020017
+# Technologies: 
+#
+DEF DIP-RES-100R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-100R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020017" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-220R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020011
+# Technologies: 
+#
+DEF DIP-RES-220R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-220R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020011" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-270R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020068
+# Technologies: 
+#
+DEF DIP-RES-270R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-270R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020068" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-330K-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020021
+# Technologies: 
+#
+DEF DIP-RES-330K-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-330K-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020021" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-330R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020003
+# Technologies: 
+#
+DEF DIP-RES-330R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-330R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020003" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-470R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020029
+# Technologies: 
+#
+DEF DIP-RES-470R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-470R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020029" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-RES-680R-5%-1/4W(PR-D2.3XL6.5MM)
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301020007
+# Technologies: 
+#
+DEF DIP-RES-680R-5%-1/4W(PR-D2.3XL6.5MM) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "DIP-RES-680R-5%-1/4W(PR-D2.3XL6.5MM)" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301020007" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-SIDE-ADJ-200K-10%-0.5W(3P-6.8X4.7X7.3MM)
+# Package Name: ADJR3-6.8X4.7X7.3MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040037
+# Technologies: 
+#
+DEF DIP-SIDE-ADJ-200K-10%-0.5W(3P-6.8X4.7X7.3MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-SIDE-ADJ-200K-10%-0.5W(3P-6.8X4.7X7.3MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-6.8X4.7X7.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040037" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-TRIMMER-10K-10%-1/2W(3P-9.7X5.0X9.80MM)
+# Package Name: ADJRP3-9.70XW5.0X9.80MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040003
+# Technologies: 
+#
+DEF DIP-TRIMMER-10K-10%-1/2W(3P-9.7X5.0X9.80MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-TRIMMER-10K-10%-1/2W(3P-9.7X5.0X9.80MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJRP3-9.70XW5.0X9.80MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040003" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-VR-TOP-ADJ-1K-3362P(3P-7.0X7.0X5.0MM)
+# Package Name: ADJR3-7.0X7.0X5.0MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040014
+# Technologies: 
+#
+DEF DIP-VR-TOP-ADJ-1K-3362P(3P-7.0X7.0X5.0MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-VR-TOP-ADJ-1K-3362P(3P-7.0X7.0X5.0MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-7.0X7.0X5.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040014" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-VR-TOP-ADJ-10K(3+2P-11.0X9.8X12.0MM)
+# Package Name: ADJR2+3P-11.0X9.8X12.0MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040022
+# Technologies: 
+#
+DEF DIP-VR-TOP-ADJ-10K(3+2P-11.0X9.8X12.0MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-VR-TOP-ADJ-10K(3+2P-11.0X9.8X12.0MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-11.0X9.8X12.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040022" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-VR-TOP-ADJ-10K-3362P(3P-7.0X7.0X5.0MM)
+# Package Name: ADJR3-7.0X7.0X5.0MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040009
+# Technologies: 
+#
+DEF DIP-VR-TOP-ADJ-10K-3362P(3P-7.0X7.0X5.0MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-VR-TOP-ADJ-10K-3362P(3P-7.0X7.0X5.0MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-7.0X7.0X5.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040009" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-VR-TOP-ADJ-100K-3362P(3P-7.0X7.0X5.0MM)
+# Package Name: ADJR3-7.0X7.0X5.0MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301040026
+# Technologies: 
+#
+DEF DIP-VR-TOP-ADJ-100K-3362P(3P-7.0X7.0X5.0MM) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "DIP-VR-TOP-ADJ-100K-3362P(3P-7.0X7.0X5.0MM)" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-7.0X7.0X5.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301040026" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0201
+# Package Name: R0201
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0201 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0201" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0201" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0204/5
+# Package Name: PR-D1.8*L3.3MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0204/5 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0204/5" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D1.8*L3.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0204/7
+# Package Name: R0204_7
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0204/7 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0204/7" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0204_7" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0207/7
+# Package Name: R0207_7
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0207/7 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0207/7" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0207_7" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0207/10
+# Package Name: PR-D2.3XL6.5MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0207/10 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0207/10" -150 -100 50 H V L B
+F2 "OPL-Resistor-PR-D2.3XL6.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0207/12
+# Package Name: R0207_12
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0207/12 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0207/12" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0207_12" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0309/10
+# Package Name: R0309_10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0309/10 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0309/10" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0309_10" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0309/12
+# Package Name: R0309_12
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0309/12 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0309/12" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0309_12" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0309/15
+# Package Name: R0309_15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0309/15 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0309/15" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0309_15" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0309/20
+# Package Name: R0309_20
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0309/20 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0309/20" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0309_20" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0402
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0402 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0402" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0515
+# Package Name: R0515_20.4
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0515 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0515" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0515_20.4" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 P$1 -150 0 100 R 40 40 1 1 P 
+X 2 P$2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0603
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0603 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0603" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0805
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0805 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0805" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0821/27-5W
+# Package Name: R0821_27
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0821/27-5W R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0821/27-5W" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0821_27" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 P$1 -150 0 100 R 40 40 1 1 P 
+X 2 P$2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-0824/26-5W
+# Package Name: R0824_26
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-0824/26-5W R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-0824/26-5W" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0824_26" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-1206
+# Package Name: R1206
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-1206 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-1206" -150 -100 50 H V L B
+F2 "OPL-Resistor-R1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-2512
+# Package Name: R2512
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-2512 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-2512" -150 -100 50 H V L B
+F2 "OPL-Resistor-R2512" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-7519
+# Package Name: R7519_60.4
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF RES-7519 R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-7519" -150 -100 50 H V L B
+F2 "OPL-Resistor-R7519_60.4" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 1 2 -150 0 100 R 40 40 1 1 P N
+X 2 3 150 0 100 L 40 40 1 1 P 
+X 2 4 150 0 100 L 40 40 1 1 P N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'11.7X10.4X5.0H'
+# Package Name: ADJR2+3P-11.7X10.4X5.0MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'11.7X10.4X5.0H' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'11.7X10.4X5.0H'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-11.7X10.4X5.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'45.6X10X5.8H'
+# Package Name: ADJR3-45.6X10.0X5.8MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'45.6X10X5.8H' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'45.6X10X5.8H'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-45.6X10.0X5.8MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'EVN-D8A-A03-B**'
+# Package Name: ADJR3-6.7X6.4MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'EVN-D8A-A03-B**' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'EVN-D8A-A03-B**'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-6.7X6.4MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'RTRIM3214W'
+# Package Name: ADJR3-SMD-4.6X3.7MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'RTRIM3214W' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'RTRIM3214W'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-SMD-4.6X3.7MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'WH09-2'
+# Package Name: ADJR2+3P-11.0X9.8X12.0MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'WH09-2' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'WH09-2'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-11.0X9.8X12.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'WH121-1'
+# Package Name: ADJR2+3P-16.0X12.0X18.0MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'WH121-1' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'WH121-1'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-16.0X12.0X18.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ'WH9011A-1-18T'
+# Package Name: ADJR3-9.5X7.05X11.35MM-90D
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ'WH9011A-1-18T' VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ'WH9011A-1-18T'" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-9.5X7.05X11.35MM-90D" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-3PDIP
+# Package Name: ADJR2+3P-10.4X5.6MM-90D
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-3PDIP VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-3PDIP" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-10.4X5.6MM-90D" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-ALPS-POT
+# Package Name: ADJR2+3P-13.6X12.4MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-ALPS-POT VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-ALPS-POT" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR2+3P-13.6X12.4MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-JML3266W-200K
+# Package Name: ADJR3-6.8X4.7X7.3MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-JML3266W-200K VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-JML3266W-200K" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-6.8X4.7X7.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-PT-10
+# Package Name: ADJR3-D11.0MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-PT-10 VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-PT-10" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-D11.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-PT-10S
+# Package Name: ADJR3-10.16X5.08MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-PT-10S VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-PT-10S" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-10.16X5.08MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-PT_SPIN
+# Package Name: ADJR3-17.8X5.08MM-90D
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-PT_SPIN VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-PT_SPIN" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-17.8X5.08MM-90D" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-SMD
+# Package Name: ADJR3-SMD-3.6X3.3MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-SMD VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-SMD" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-SMD-3.6X3.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 3 200 0 100 L 40 40 1 1 P 
+X 3 2 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ADJ-SX3362P
+# Package Name: ADJR3-7.0X7.0X5.0MM
+# Dev Tech: ''
+# Dev Prefix: VR
+# Gate count = 1
+# Description: <b>Potentiometer</b>
+# Technologies: 
+#
+DEF RES-ADJ-SX3362P VR 0 40 N N 1 L N
+F0 "VR" -200 50 50 H V L B
+F1 "RES-ADJ-SX3362P" -200 -100 50 H V L B
+F2 "OPL-Resistor-ADJR3-7.0X7.0X5.0MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Potentiometer</b>" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 0 -50
+P 2 1 0 0 0 -50 100 -50
+P 2 1 0 0 0 -100 0 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+X 3 3 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: RES-ARRAY-1206
+# Package Name: RA1206-8
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 4
+# Description: Resistor Array
+# Technologies: 
+#
+DEF RES-ARRAY-1206 R 0 40 N N 4 L N
+F0 "R" -150 50 50 H V L B
+F1 "RES-ARRAY-1206" -150 -100 50 H V L B
+F2 "OPL-Resistor-RA1206-8" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "Resistor Array" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 8 150 0 100 L 40 40 1 1 P 
+P 2 2 0 0 -50 20 50 20
+P 2 2 0 0 50 20 50 -20
+P 2 2 0 0 50 -20 -50 -20
+P 2 2 0 0 -50 -20 -50 20
+X 1 2 -150 0 100 R 40 40 2 1 P 
+X 2 7 150 0 100 L 40 40 2 1 P 
+P 2 3 0 0 -50 20 50 20
+P 2 3 0 0 50 20 50 -20
+P 2 3 0 0 50 -20 -50 -20
+P 2 3 0 0 -50 -20 -50 20
+X 1 3 -150 0 100 R 40 40 3 1 P 
+X 2 6 150 0 100 L 40 40 3 1 P 
+P 2 4 0 0 -50 20 50 20
+P 2 4 0 0 50 20 50 -20
+P 2 4 0 0 50 -20 -50 -20
+P 2 4 0 0 -50 -20 -50 20
+X 1 4 -150 0 100 R 40 40 4 1 P 
+X 2 5 150 0 100 L 40 40 4 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-0.1R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010264
+# Technologies: 
+#
+DEF SMD-RES-0.1R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-0.1R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010264" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-0R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010292
+# Technologies: 
+#
+DEF SMD-RES-0R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-0R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010292" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-0R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010000
+# Technologies: 
+#
+DEF SMD-RES-0R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-0R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010000" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.1K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010115
+# Technologies: 
+#
+DEF SMD-RES-1.1K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.1K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010115" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.2K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010206
+# Technologies: 
+#
+DEF SMD-RES-1.2K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.2K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010206" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.5K-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010394
+# Technologies: 
+#
+DEF SMD-RES-1.5K-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.5K-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010394" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.5K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010189
+# Technologies: 
+#
+DEF SMD-RES-1.5K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.5K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010189" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.5K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010001
+# Technologies: 
+#
+DEF SMD-RES-1.5K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.5K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010001" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.5R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010076
+# Technologies: 
+#
+DEF SMD-RES-1.5R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.5R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010076" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.8K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010254
+# Technologies: 
+#
+DEF SMD-RES-1.8K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.8K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010254" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1.8K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010342
+# Technologies: 
+#
+DEF SMD-RES-1.8K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1.8K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010342" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010298
+# Technologies: 
+#
+DEF SMD-RES-1K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010298" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010311
+# Technologies: 
+#
+DEF SMD-RES-1K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010311" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010006
+# Technologies: 
+#
+DEF SMD-RES-1K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010006" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1M-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010151
+# Technologies: 
+#
+DEF SMD-RES-1M-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1M-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010151" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1M-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010043
+# Technologies: 
+#
+DEF SMD-RES-1M-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1M-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010043" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1M-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010321
+# Technologies: 
+#
+DEF SMD-RES-1M-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1M-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010321" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-1M-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010009
+# Technologies: 
+#
+DEF SMD-RES-1M-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-1M-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010009" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2.2K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010333
+# Technologies: 
+#
+DEF SMD-RES-2.2K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2.2K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010333" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2.2K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010124
+# Technologies: 
+#
+DEF SMD-RES-2.2K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2.2K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010124" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2.7K-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010395
+# Technologies: 
+#
+DEF SMD-RES-2.7K-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2.7K-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010395" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2.7K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010193
+# Technologies: 
+#
+DEF SMD-RES-2.7K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2.7K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010193" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2.7K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010078
+# Technologies: 
+#
+DEF SMD-RES-2.7K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2.7K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010078" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010221
+# Technologies: 
+#
+DEF SMD-RES-2K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010221" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2K-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010461
+# Technologies: 
+#
+DEF SMD-RES-2K-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2K-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010461" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010318
+# Technologies: 
+#
+DEF SMD-RES-2K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010318" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010113
+# Technologies: 
+#
+DEF SMD-RES-2K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010113" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-2M-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010154
+# Technologies: 
+#
+DEF SMD-RES-2M-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-2M-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010154" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.3K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010251
+# Technologies: 
+#
+DEF SMD-RES-3.3K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.3K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010251" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.3K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010331
+# Technologies: 
+#
+DEF SMD-RES-3.3K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.3K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010331" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.3K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010035
+# Technologies: 
+#
+DEF SMD-RES-3.3K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.3K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010035" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.6K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010268
+# Technologies: 
+#
+DEF SMD-RES-3.6K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.6K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010268" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.9K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010101
+# Technologies: 
+#
+DEF SMD-RES-3.9K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.9K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010101" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3.9K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010498
+# Technologies: 
+#
+DEF SMD-RES-3.9K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3.9K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010498" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010170
+# Technologies: 
+#
+DEF SMD-RES-3K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-3K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010170" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-3M-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+# Description: 301010136
+# Technologies: 
+#
+DEF SMD-RES-3M-5%-1/10W(0603) ?? 0 40 N N 1 L N
+F3 "" 0 0 60 H V C CNN
+F4 "301010136" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-4.7K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010306
+# Technologies: 
+#
+DEF SMD-RES-4.7K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-4.7K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010306" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-4.7K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010290
+# Technologies: 
+#
+DEF SMD-RES-4.7K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-4.7K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010290" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-4.7K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010010
+# Technologies: 
+#
+DEF SMD-RES-4.7K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-4.7K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010010" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-4.7M-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010213
+# Technologies: 
+#
+DEF SMD-RES-4.7M-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-4.7M-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010213" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-5.6K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010691
+# Technologies: 
+#
+DEF SMD-RES-5.6K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-5.6K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010691" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-5.6K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010166
+# Technologies: 
+#
+DEF SMD-RES-5.6K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-5.6K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010166" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-6.8K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010198
+# Technologies: 
+#
+DEF SMD-RES-6.8K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-6.8K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010198" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-6.8K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010335
+# Technologies: 
+#
+DEF SMD-RES-6.8K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-6.8K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010335" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-8.2K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010434
+# Technologies: 
+#
+DEF SMD-RES-8.2K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-8.2K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010434" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-8.2K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010400
+# Technologies: 
+#
+DEF SMD-RES-8.2K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-8.2K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010400" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10K-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+# Description: 301010361
+# Technologies: 
+#
+DEF SMD-RES-10K-1%-1/8W(0805) ?? 0 40 N N 1 L N
+F3 "" 0 0 60 H V C CNN
+F4 "301010361" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010299
+# Technologies: 
+#
+DEF SMD-RES-10K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-10K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010299" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10K-5%-1/(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+# Description: 301010004
+# Technologies: 
+#
+DEF SMD-RES-10K-5%-1/(0402) ?? 0 40 N N 1 L N
+F3 "" 0 0 60 H V C CNN
+F4 "301010004" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10M-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010153
+# Technologies: 
+#
+DEF SMD-RES-10M-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-10M-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010153" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10M-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010121
+# Technologies: 
+#
+DEF SMD-RES-10M-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-10M-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010121" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010185
+# Technologies: 
+#
+DEF SMD-RES-10R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-10R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010185" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-10R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010096
+# Technologies: 
+#
+DEF SMD-RES-10R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-10R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010096" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-12K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010102
+# Technologies: 
+#
+DEF SMD-RES-12K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-12K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010102" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-12K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010045
+# Technologies: 
+#
+DEF SMD-RES-12K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-12K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010045" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-12R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010683
+# Technologies: 
+#
+DEF SMD-RES-12R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-12R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010683" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-13R-5%-1/4W(1206)
+# Package Name: R1206
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010405
+# Technologies: 
+#
+DEF SMD-RES-13R-5%-1/4W(1206) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-13R-5%-1/4W(1206)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010405" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-15K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010328
+# Technologies: 
+#
+DEF SMD-RES-15K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-15K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010328" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-15K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010103
+# Technologies: 
+#
+DEF SMD-RES-15K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-15K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010103" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-15K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010042
+# Technologies: 
+#
+DEF SMD-RES-15K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-15K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010042" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-15R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010684
+# Technologies: 
+#
+DEF SMD-RES-15R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-15R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010684" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-15R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010231
+# Technologies: 
+#
+DEF SMD-RES-15R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-15R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010231" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-16K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010158
+# Technologies: 
+#
+DEF SMD-RES-16K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-16K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010158" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-20K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010288
+# Technologies: 
+#
+DEF SMD-RES-20K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-20K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010288" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-20K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010105
+# Technologies: 
+#
+DEF SMD-RES-20K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-20K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010105" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010199
+# Technologies: 
+#
+DEF SMD-RES-22K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010199" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22K-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010063
+# Technologies: 
+#
+DEF SMD-RES-22K-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22K-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010063" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010341
+# Technologies: 
+#
+DEF SMD-RES-22K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010341" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010132
+# Technologies: 
+#
+DEF SMD-RES-22K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010132" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22R-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010052
+# Technologies: 
+#
+DEF SMD-RES-22R-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22R-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010052" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010329
+# Technologies: 
+#
+DEF SMD-RES-22R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010329" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010289
+# Technologies: 
+#
+DEF SMD-RES-22R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010289" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-22R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010002
+# Technologies: 
+#
+DEF SMD-RES-22R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-22R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010002" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-24K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010232
+# Technologies: 
+#
+DEF SMD-RES-24K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-24K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010232" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-30K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010202
+# Technologies: 
+#
+DEF SMD-RES-30K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-30K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010202" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-33.2K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010686
+# Technologies: 
+#
+DEF SMD-RES-33.2K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-33.2K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010686" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-33.2R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010687
+# Technologies: 
+#
+DEF SMD-RES-33.2R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-33.2R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010687" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-33R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010262
+# Technologies: 
+#
+DEF SMD-RES-33R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-33R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010262" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-33R-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010609
+# Technologies: 
+#
+DEF SMD-RES-33R-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-33R-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010609" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47K-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010388
+# Technologies: 
+#
+DEF SMD-RES-47K-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47K-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010388" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010084
+# Technologies: 
+#
+DEF SMD-RES-47K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010084" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010005
+# Technologies: 
+#
+DEF SMD-RES-47K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010005" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010690
+# Technologies: 
+#
+DEF SMD-RES-47R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010690" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010380
+# Technologies: 
+#
+DEF SMD-RES-47R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010380" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-47R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010091
+# Technologies: 
+#
+DEF SMD-RES-47R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-47R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010091" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-49.9R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010296
+# Technologies: 
+#
+DEF SMD-RES-49.9R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-49.9R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010296" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-49.9R-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010041
+# Technologies: 
+#
+DEF SMD-RES-49.9R-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-49.9R-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010041" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-51K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010145
+# Technologies: 
+#
+DEF SMD-RES-51K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-51K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010145" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-51K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010027
+# Technologies: 
+#
+DEF SMD-RES-51K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-51K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010027" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-51R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010225
+# Technologies: 
+#
+DEF SMD-RES-51R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-51R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010225" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-51R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010080
+# Technologies: 
+#
+DEF SMD-RES-51R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-51R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010080" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-56.2K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010692
+# Technologies: 
+#
+DEF SMD-RES-56.2K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-56.2K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010692" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-56.2R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010693
+# Technologies: 
+#
+DEF SMD-RES-56.2R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-56.2R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010693" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-56K-5%-1/(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010327
+# Technologies: 
+#
+DEF SMD-RES-56K-5%-1/(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-56K-5%-1/(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010327" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-68.1K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010695
+# Technologies: 
+#
+DEF SMD-RES-68.1K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-68.1K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010695" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-68.1R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010696
+# Technologies: 
+#
+DEF SMD-RES-68.1R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-68.1R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010696" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-68K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010169
+# Technologies: 
+#
+DEF SMD-RES-68K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-68K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010169" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-68R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010326
+# Technologies: 
+#
+DEF SMD-RES-68R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-68R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010326" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-68R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010085
+# Technologies: 
+#
+DEF SMD-RES-68R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-68R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010085" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-75R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010294
+# Technologies: 
+#
+DEF SMD-RES-75R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-75R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010294" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-82.5K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010699
+# Technologies: 
+#
+DEF SMD-RES-82.5K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-82.5K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010699" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-82.5R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010156
+# Technologies: 
+#
+DEF SMD-RES-82.5R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-82.5R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010156" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-82K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010222
+# Technologies: 
+#
+DEF SMD-RES-82K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-82K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010222" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-82R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010614
+# Technologies: 
+#
+DEF SMD-RES-82R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-82R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010614" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100K-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010396
+# Technologies: 
+#
+DEF SMD-RES-100K-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100K-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010396" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010196
+# Technologies: 
+#
+DEF SMD-RES-100K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010196" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100K-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010456
+# Technologies: 
+#
+DEF SMD-RES-100K-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100K-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010456" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100R-5%-1/4W(1206)
+# Package Name: R1206
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010412
+# Technologies: 
+#
+DEF SMD-RES-100R-5%-1/4W(1206) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100R-5%-1/4W(1206)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010412" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010319
+# Technologies: 
+#
+DEF SMD-RES-100R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010319" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010090
+# Technologies: 
+#
+DEF SMD-RES-100R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010090" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-100R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010028
+# Technologies: 
+#
+DEF SMD-RES-100R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-100R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010028" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-120K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010217
+# Technologies: 
+#
+DEF SMD-RES-120K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-120K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010217" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-120R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010194
+# Technologies: 
+#
+DEF SMD-RES-120R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-120R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010194" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-120R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010351
+# Technologies: 
+#
+DEF SMD-RES-120R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-120R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010351" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-150K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010205
+# Technologies: 
+#
+DEF SMD-RES-150K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-150K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010205" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-150K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010133
+# Technologies: 
+#
+DEF SMD-RES-150K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-150K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010133" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-150R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010188
+# Technologies: 
+#
+DEF SMD-RES-150R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-150R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010188" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-200K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010212
+# Technologies: 
+#
+DEF SMD-RES-200K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-200K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010212" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010685
+# Technologies: 
+#
+DEF SMD-RES-220K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010685" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220K-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010499
+# Technologies: 
+#
+DEF SMD-RES-220K-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220K-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010499" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220K-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010534
+# Technologies: 
+#
+DEF SMD-RES-220K-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220K-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010534" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220K-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010504
+# Technologies: 
+#
+DEF SMD-RES-220K-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220K-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010504" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010315
+# Technologies: 
+#
+DEF SMD-RES-220R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010315" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-220R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010163
+# Technologies: 
+#
+DEF SMD-RES-220R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-220R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010163" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-270R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010197
+# Technologies: 
+#
+DEF SMD-RES-270R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-270R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010197" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-270R-5%-1/4W(1206)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010418
+# Technologies: 
+#
+DEF SMD-RES-270R-5%-1/4W(1206) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-270R-5%-1/4W(1206)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010418" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-270R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010360
+# Technologies: 
+#
+DEF SMD-RES-270R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-270R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010360" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-330R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010300
+# Technologies: 
+#
+DEF SMD-RES-330R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-330R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010300" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-330R-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010466
+# Technologies: 
+#
+DEF SMD-RES-330R-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-330R-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010466" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-332K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010688
+# Technologies: 
+#
+DEF SMD-RES-332K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-332K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010688" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-390R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010689
+# Technologies: 
+#
+DEF SMD-RES-390R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-390R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010689" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-390R-5%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010320
+# Technologies: 
+#
+DEF SMD-RES-390R-5%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-390R-5%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010320" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-390R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010297
+# Technologies: 
+#
+DEF SMD-RES-390R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-390R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010297" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-470K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010190
+# Technologies: 
+#
+DEF SMD-RES-470K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-470K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010190" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-470K-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010069
+# Technologies: 
+#
+DEF SMD-RES-470K-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-470K-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010069" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-470R-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010367
+# Technologies: 
+#
+DEF SMD-RES-470R-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-470R-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010367" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-470R-1%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010012
+# Technologies: 
+#
+DEF SMD-RES-470R-1%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-470R-1%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010012" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-470R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010088
+# Technologies: 
+#
+DEF SMD-RES-470R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-470R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010088" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-510R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010157
+# Technologies: 
+#
+DEF SMD-RES-510R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-510R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010157" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-560R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010649
+# Technologies: 
+#
+DEF SMD-RES-560R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-560R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010649" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-562K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010694
+# Technologies: 
+#
+DEF SMD-RES-562K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-562K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010694" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-576R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010708
+# Technologies: 
+#
+DEF SMD-RES-576R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-576R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010708" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-620R-5%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010210
+# Technologies: 
+#
+DEF SMD-RES-620R-5%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-620R-5%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010210" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-680K-1%-1/16W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010246
+# Technologies: 
+#
+DEF SMD-RES-680K-1%-1/16W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-680K-1%-1/16W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010246" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-680R-1%-1/8W(0805)
+# Package Name: R0805
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010399
+# Technologies: 
+#
+DEF SMD-RES-680R-1%-1/8W(0805) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-680R-1%-1/8W(0805)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010399" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-680R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010260
+# Technologies: 
+#
+DEF SMD-RES-680R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-680R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010260" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-680R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010505
+# Technologies: 
+#
+DEF SMD-RES-680R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-680R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010505" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-681K-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010697
+# Technologies: 
+#
+DEF SMD-RES-681K-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-681K-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010697" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-681R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+# Description: 301010698
+# Technologies: 
+#
+DEF SMD-RES-681R-1%-1/10W(0603) ?? 0 40 N N 1 L N
+F3 "" 0 0 60 H V C CNN
+F4 "301010698" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 ~ -150 0 100 R 40 40 1 1 P 
+X 2 ~ 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-820R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010257
+# Technologies: 
+#
+DEF SMD-RES-820R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-820R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010257" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-820R-5%-1/16W(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010046
+# Technologies: 
+#
+DEF SMD-RES-820R-5%-1/16W(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-820R-5%-1/16W(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010046" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-825R-1%-1/10W(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301010672
+# Technologies: 
+#
+DEF SMD-RES-825R-1%-1/10W(0603) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-825R-1%-1/10W(0603)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301010672" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-ARRAY-1K-4R(RA1206-8)
+# Package Name: RA1206-8
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301030012
+# Technologies: 
+#
+DEF SMD-RES-ARRAY-1K-4R(RA1206-8) R 0 40 N N 1 L N
+F0 "R" -150 250 50 H V L B
+F1 "SMD-RES-ARRAY-1K-4R(RA1206-8)" -150 -300 50 H V L B
+F2 "OPL-Resistor-RA1206-8" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301030012" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 170 50 170
+P 2 1 0 0 50 170 50 130
+P 2 1 0 0 50 130 -50 130
+P 2 1 0 0 -50 130 -50 170
+P 2 1 0 0 -50 70 50 70
+P 2 1 0 0 50 70 50 30
+P 2 1 0 0 50 30 -50 30
+P 2 1 0 0 -50 30 -50 70
+P 2 1 0 0 -50 -30 50 -30
+P 2 1 0 0 50 -30 50 -70
+P 2 1 0 0 50 -70 -50 -70
+P 2 1 0 0 -50 -70 -50 -30
+P 2 1 0 0 -50 -130 50 -130
+P 2 1 0 0 50 -130 50 -170
+P 2 1 0 0 50 -170 -50 -170
+P 2 1 0 0 -50 -170 -50 -130
+P 2 1 0 0 -150 200 150 200
+P 2 1 0 0 150 200 150 150
+P 2 1 0 0 150 150 150 50
+P 2 1 0 0 150 50 150 -50
+P 2 1 0 0 150 -50 150 -150
+P 2 1 0 0 150 -150 150 -200
+P 2 1 0 0 150 -200 -150 -200
+P 2 1 0 0 -150 -200 -150 -150
+P 2 1 0 0 -150 -150 -150 -50
+P 2 1 0 0 -150 -50 -150 50
+P 2 1 0 0 -150 50 -150 150
+P 2 1 0 0 -150 150 -150 200
+P 2 1 0 0 -200 150 -150 150
+P 2 1 0 0 -200 50 -150 50
+P 2 1 0 0 -200 -50 -150 -50
+P 2 1 0 0 -200 -150 -150 -150
+P 2 1 0 0 200 -50 150 -50
+P 2 1 0 0 200 -150 150 -150
+P 2 1 0 0 200 50 150 50
+P 2 1 0 0 200 150 150 150
+X 1 1 -300 150 100 R 40 40 1 1 B 
+X 2 2 -300 50 100 R 40 40 1 1 B 
+X 3 3 -300 -50 100 R 40 40 1 1 B 
+X 4 4 -300 -150 100 R 40 40 1 1 B 
+X 5 5 300 -150 100 L 40 40 1 1 B 
+X 6 6 300 -50 100 L 40 40 1 1 B 
+X 7 7 300 50 100 L 40 40 1 1 B 
+X 8 8 300 150 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-ARRAY-4.7K-4R(RA1206-8)
+# Package Name: RA1206-8
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301030003
+# Technologies: 
+#
+DEF SMD-RES-ARRAY-4.7K-4R(RA1206-8) R 0 40 N N 1 L N
+F0 "R" -150 250 50 H V L B
+F1 "SMD-RES-ARRAY-4.7K-4R(RA1206-8)" -150 -300 50 H V L B
+F2 "OPL-Resistor-RA1206-8" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301030003" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 170 50 170
+P 2 1 0 0 50 170 50 130
+P 2 1 0 0 50 130 -50 130
+P 2 1 0 0 -50 130 -50 170
+P 2 1 0 0 -50 70 50 70
+P 2 1 0 0 50 70 50 30
+P 2 1 0 0 50 30 -50 30
+P 2 1 0 0 -50 30 -50 70
+P 2 1 0 0 -50 -30 50 -30
+P 2 1 0 0 50 -30 50 -70
+P 2 1 0 0 50 -70 -50 -70
+P 2 1 0 0 -50 -70 -50 -30
+P 2 1 0 0 -50 -130 50 -130
+P 2 1 0 0 50 -130 50 -170
+P 2 1 0 0 50 -170 -50 -170
+P 2 1 0 0 -50 -170 -50 -130
+P 2 1 0 0 -150 200 150 200
+P 2 1 0 0 150 200 150 150
+P 2 1 0 0 150 150 150 50
+P 2 1 0 0 150 50 150 -50
+P 2 1 0 0 150 -50 150 -150
+P 2 1 0 0 150 -150 150 -200
+P 2 1 0 0 150 -200 -150 -200
+P 2 1 0 0 -150 -200 -150 -150
+P 2 1 0 0 -150 -150 -150 -50
+P 2 1 0 0 -150 -50 -150 50
+P 2 1 0 0 -150 50 -150 150
+P 2 1 0 0 -150 150 -150 200
+P 2 1 0 0 -200 150 -150 150
+P 2 1 0 0 -200 50 -150 50
+P 2 1 0 0 -200 -50 -150 -50
+P 2 1 0 0 -200 -150 -150 -150
+P 2 1 0 0 200 -50 150 -50
+P 2 1 0 0 200 -150 150 -150
+P 2 1 0 0 200 50 150 50
+P 2 1 0 0 200 150 150 150
+X 1 1 -300 150 100 R 40 40 1 1 B 
+X 2 2 -300 50 100 R 40 40 1 1 B 
+X 3 3 -300 -50 100 R 40 40 1 1 B 
+X 4 4 -300 -150 100 R 40 40 1 1 B 
+X 5 5 300 -150 100 L 40 40 1 1 B 
+X 6 6 300 -50 100 L 40 40 1 1 B 
+X 7 7 300 50 100 L 40 40 1 1 B 
+X 8 8 300 150 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-ARRAY-10K(RA1206-8)
+# Package Name: RA1206-8
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301030002
+# Technologies: 
+#
+DEF SMD-RES-ARRAY-10K(RA1206-8) R 0 40 N N 1 L N
+F0 "R" -150 250 50 H V L B
+F1 "SMD-RES-ARRAY-10K(RA1206-8)" -150 -300 50 H V L B
+F2 "OPL-Resistor-RA1206-8" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301030002" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 170 50 170
+P 2 1 0 0 50 170 50 130
+P 2 1 0 0 50 130 -50 130
+P 2 1 0 0 -50 130 -50 170
+P 2 1 0 0 -50 70 50 70
+P 2 1 0 0 50 70 50 30
+P 2 1 0 0 50 30 -50 30
+P 2 1 0 0 -50 30 -50 70
+P 2 1 0 0 -50 -30 50 -30
+P 2 1 0 0 50 -30 50 -70
+P 2 1 0 0 50 -70 -50 -70
+P 2 1 0 0 -50 -70 -50 -30
+P 2 1 0 0 -50 -130 50 -130
+P 2 1 0 0 50 -130 50 -170
+P 2 1 0 0 50 -170 -50 -170
+P 2 1 0 0 -50 -170 -50 -130
+P 2 1 0 0 -150 200 150 200
+P 2 1 0 0 150 200 150 150
+P 2 1 0 0 150 150 150 50
+P 2 1 0 0 150 50 150 -50
+P 2 1 0 0 150 -50 150 -150
+P 2 1 0 0 150 -150 150 -200
+P 2 1 0 0 150 -200 -150 -200
+P 2 1 0 0 -150 -200 -150 -150
+P 2 1 0 0 -150 -150 -150 -50
+P 2 1 0 0 -150 -50 -150 50
+P 2 1 0 0 -150 50 -150 150
+P 2 1 0 0 -150 150 -150 200
+P 2 1 0 0 -200 150 -150 150
+P 2 1 0 0 -200 50 -150 50
+P 2 1 0 0 -200 -50 -150 -50
+P 2 1 0 0 -200 -150 -150 -150
+P 2 1 0 0 200 -50 150 -50
+P 2 1 0 0 200 -150 150 -150
+P 2 1 0 0 200 50 150 50
+P 2 1 0 0 200 150 150 150
+X 1 1 -300 150 100 R 40 40 1 1 B 
+X 2 2 -300 50 100 R 40 40 1 1 B 
+X 3 3 -300 -50 100 R 40 40 1 1 B 
+X 4 4 -300 -150 100 R 40 40 1 1 B 
+X 5 5 300 -150 100 L 40 40 1 1 B 
+X 6 6 300 -50 100 L 40 40 1 1 B 
+X 7 7 300 50 100 L 40 40 1 1 B 
+X 8 8 300 150 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-ARRAY-330R-4R-5%(RA0603-8)
+# Package Name: RA0603-8
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 301030007
+# Technologies: 
+#
+DEF SMD-RES-ARRAY-330R-4R-5%(RA0603-8) R 0 40 N N 1 L N
+F0 "R" -150 250 50 H V L B
+F1 "SMD-RES-ARRAY-330R-4R-5%(RA0603-8)" -150 -300 50 H V L B
+F2 "OPL-Resistor-RA0603-8" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "301030007" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 170 50 170
+P 2 1 0 0 50 170 50 130
+P 2 1 0 0 50 130 -50 130
+P 2 1 0 0 -50 130 -50 170
+P 2 1 0 0 -50 70 50 70
+P 2 1 0 0 50 70 50 30
+P 2 1 0 0 50 30 -50 30
+P 2 1 0 0 -50 30 -50 70
+P 2 1 0 0 -50 -30 50 -30
+P 2 1 0 0 50 -30 50 -70
+P 2 1 0 0 50 -70 -50 -70
+P 2 1 0 0 -50 -70 -50 -30
+P 2 1 0 0 -50 -130 50 -130
+P 2 1 0 0 50 -130 50 -170
+P 2 1 0 0 50 -170 -50 -170
+P 2 1 0 0 -50 -170 -50 -130
+P 2 1 0 0 -150 200 150 200
+P 2 1 0 0 150 200 150 150
+P 2 1 0 0 150 150 150 50
+P 2 1 0 0 150 50 150 -50
+P 2 1 0 0 150 -50 150 -150
+P 2 1 0 0 150 -150 150 -200
+P 2 1 0 0 150 -200 -150 -200
+P 2 1 0 0 -150 -200 -150 -150
+P 2 1 0 0 -150 -150 -150 -50
+P 2 1 0 0 -150 -50 -150 50
+P 2 1 0 0 -150 50 -150 150
+P 2 1 0 0 -150 150 -150 200
+P 2 1 0 0 -200 150 -150 150
+P 2 1 0 0 -200 50 -150 50
+P 2 1 0 0 -200 -50 -150 -50
+P 2 1 0 0 -200 -150 -150 -150
+P 2 1 0 0 200 -50 150 -50
+P 2 1 0 0 200 -150 150 -150
+P 2 1 0 0 200 50 150 50
+P 2 1 0 0 200 150 150 150
+X 1 1 -300 150 100 R 40 40 1 1 B 
+X 2 2 -300 50 100 R 40 40 1 1 B 
+X 3 3 -300 -50 100 R 40 40 1 1 B 
+X 4 4 -300 -150 100 R 40 40 1 1 B 
+X 5 5 300 -150 100 L 40 40 1 1 B 
+X 6 6 300 -50 100 L 40 40 1 1 B 
+X 7 7 300 50 100 L 40 40 1 1 B 
+X 8 8 300 150 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-VARISTOR-5V-28V(0603)
+# Package Name: R0603
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 314130003
+# Technologies: 
+#
+DEF SMD-RES-VARISTOR-5V-28V(0603) R 0 40 N N 1 L N
+F0 "R" -200 50 50 H V L B
+F1 "SMD-RES-VARISTOR-5V-28V(0603)" -200 -100 50 H V L B
+F2 "OPL-Resistor-R0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "314130003" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 6 1 1 0     100 100 105 150 105 150 70 115 70 115 100 100 F
+P 2 1 0 0 -100 50 -100 -50
+P 2 1 0 0 100 -50 100 50
+P 2 1 0 0 100 50 -100 50
+P 2 1 0 0 0 -70 105 150
+P 2 1 0 0 -100 -50 100 -50
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-RES-VARISTOR-11V-14V(0402)
+# Package Name: R0402
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+# Description: 314130001
+# Technologies: 
+#
+DEF SMD-RES-VARISTOR-11V-14V(0402) R 0 40 N N 1 L N
+F0 "R" -150 50 50 H V L B
+F1 "SMD-RES-VARISTOR-11V-14V(0402)" -150 -100 50 H V L B
+F2 "OPL-Resistor-R0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "314130001" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 20 50 20
+P 2 1 0 0 50 20 50 -20
+P 2 1 0 0 50 -20 -50 -20
+P 2 1 0 0 -50 -20 -50 20
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

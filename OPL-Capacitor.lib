@@ -1,0 +1,2831 @@
+EESchema-LIBRARY Version 2.3  02/05/2015-06:43:23
+# Converted with eagle-lbr2kicad.ulp Version 0.93
+# Device count = 95
+#
+# Dev Name: ALUMINUM-SMD-47UF-25V(D6.3-H5.3MM)
+# Package Name: ELECTRO-SMD-C-6MM
+# Dev Tech: ''
+# Dev Prefix: CT
+# Gate count = 1
+# Description: 302030059
+# Technologies: 
+#
+DEF ALUMINUM-SMD-47UF-25V(D6.3-H5.3MM) CT 0 40 N N 1 L N
+F0 "CT" -250 150 50 H V L B
+F1 "ALUMINUM-SMD-47UF-25V(D6.3-H5.3MM)" 50 150 50 H V L B
+F2 "OPL-Capacitor-ELECTRO-SMD-C-6MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302030059" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ALUMINUM-SMD-100UF-50V-20%
+# Package Name: ELECTRO-SMD-C-6MM
+# Dev Tech: ''
+# Dev Prefix: CT
+# Gate count = 1
+# Description: 302030090
+# Technologies: 
+#
+DEF ALUMINUM-SMD-100UF-50V-20% CT 0 40 N N 1 L N
+F0 "CT" -250 150 50 H V L B
+F1 "ALUMINUM-SMD-100UF-50V-20%" 50 150 50 H V L B
+F2 "OPL-Capacitor-ELECTRO-SMD-C-6MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302030090" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: ALUMINUM-SMD-220UF-16V(D6.3-H7.7MM)
+# Package Name: ELECTRO-SMD-C-6MM
+# Dev Tech: ''
+# Dev Prefix: CT
+# Gate count = 1
+# Description: 302030053
+# Technologies: 
+#
+DEF ALUMINUM-SMD-220UF-16V(D6.3-H7.7MM) CT 0 40 N N 1 L N
+F0 "CT" -250 150 50 H V L B
+F1 "ALUMINUM-SMD-220UF-16V(D6.3-H7.7MM)" 50 150 50 H V L B
+F2 "OPL-Capacitor-ELECTRO-SMD-C-6MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302030053" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1.5PF-50V-0.1PF-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010023
+# Technologies: 
+#
+DEF CERAMIC-1.5PF-50V-0.1PF-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1.5PF-50V-0.1PF-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010023" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1.8PF-50V-0.1PF-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010046
+# Technologies: 
+#
+DEF CERAMIC-1.8PF-50V-0.1PF-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1.8PF-50V-0.1PF-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010046" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1NF-50V-5%-C0G(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010341
+# Technologies: 
+#
+DEF CERAMIC-1NF-50V-5%-C0G(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1NF-50V-5%-C0G(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010341" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1NF-50V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010005
+# Technologies: 
+#
+DEF CERAMIC-1NF-50V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1NF-50V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010005" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010141
+# Technologies: 
+#
+DEF CERAMIC-1NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010141" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1PF-50V-0.1PF-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010021
+# Technologies: 
+#
+DEF CERAMIC-1PF-50V-0.1PF-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1PF-50V-0.1PF-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010021" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1UF-10V-10%-X5R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010040
+# Technologies: 
+#
+DEF CERAMIC-1UF-10V-10%-X5R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1UF-10V-10%-X5R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010040" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1UF-25V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010139
+# Technologies: 
+#
+DEF CERAMIC-1UF-25V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1UF-25V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010139" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-1UF-25V-10%-X7R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010179
+# Technologies: 
+#
+DEF CERAMIC-1UF-25V-10%-X7R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-1UF-25V-10%-X7R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010179" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2NF-50V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010022
+# Technologies: 
+#
+DEF CERAMIC-2.2NF-50V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2NF-50V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010022" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010056
+# Technologies: 
+#
+DEF CERAMIC-2.2NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010056" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2PF-50V-0.25PF-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010223
+# Technologies: 
+#
+DEF CERAMIC-2.2PF-50V-0.25PF-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2PF-50V-0.25PF-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010223" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2PF-50V-0.25PF-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010102
+# Technologies: 
+#
+DEF CERAMIC-2.2PF-50V-0.25PF-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2PF-50V-0.25PF-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010102" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2UF-10V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010054
+# Technologies: 
+#
+DEF CERAMIC-2.2UF-10V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2UF-10V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010054" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-2.2UF-25V-10%-X7R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010148
+# Technologies: 
+#
+DEF CERAMIC-2.2UF-25V-10%-X7R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-2.2UF-25V-10%-X7R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010148" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-4.7NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010144
+# Technologies: 
+#
+DEF CERAMIC-4.7NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-4.7NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010144" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 ~ -150 0 100 R 40 40 1 1 P 
+X 2 ~ 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-4.7UF-6.3V-20%-X5R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010019
+# Technologies: 
+#
+DEF CERAMIC-4.7UF-6.3V-20%-X5R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-4.7UF-6.3V-20%-X5R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010019" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-4.7UF-10V-10%-X5R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010111
+# Technologies: 
+#
+DEF CERAMIC-4.7UF-10V-10%-X5R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-4.7UF-10V-10%-X5R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010111" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-4.7UF-25V-10%-X5R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010146
+# Technologies: 
+#
+DEF CERAMIC-4.7UF-25V-10%-X5R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-4.7UF-25V-10%-X5R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010146" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-4.7UF-50V-10%-X5R(1206)
+# Package Name: C1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010243
+# Technologies: 
+#
+DEF CERAMIC-4.7UF-50V-10%-X5R(1206) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-4.7UF-50V-10%-X5R(1206)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010243" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-8.2PF-50V-0.5PF-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010066
+# Technologies: 
+#
+DEF CERAMIC-8.2PF-50V-0.5PF-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-8.2PF-50V-0.5PF-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010066" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10NF-50V-5%-X7R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010175
+# Technologies: 
+#
+DEF CERAMIC-10NF-50V-5%-X7R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10NF-50V-5%-X7R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010175" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10NF-50V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010006
+# Technologies: 
+#
+DEF CERAMIC-10NF-50V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10NF-50V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010006" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010140
+# Technologies: 
+#
+DEF CERAMIC-10NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010140" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010001
+# Technologies: 
+#
+DEF CERAMIC-10PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010001" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010097
+# Technologies: 
+#
+DEF CERAMIC-10PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010097" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10UF-10V-(-20%~+80%)-Y5V(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010158
+# Technologies: 
+#
+DEF CERAMIC-10UF-10V-(-20%~+80%)-Y5V(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10UF-10V-(-20%~+80%)-Y5V(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010158" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10UF-10V-10%-X5R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010103
+# Technologies: 
+#
+DEF CERAMIC-10UF-10V-10%-X5R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10UF-10V-10%-X5R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010103" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10UF-25V-10%-X5R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010178
+# Technologies: 
+#
+DEF CERAMIC-10UF-25V-10%-X5R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10UF-25V-10%-X5R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010178" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-10UF-25V-10%-X5R(1206)
+# Package Name: C1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010181
+# Technologies: 
+#
+DEF CERAMIC-10UF-25V-10%-X5R(1206) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-10UF-25V-10%-X5R(1206)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010181" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-12PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010049
+# Technologies: 
+#
+DEF CERAMIC-12PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-12PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010049" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-12PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010067
+# Technologies: 
+#
+DEF CERAMIC-12PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-12PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010067" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-13PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010014
+# Technologies: 
+#
+DEF CERAMIC-13PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-13PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010014" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-13PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010137
+# Technologies: 
+#
+DEF CERAMIC-13PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-13PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010137" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-15PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010041
+# Technologies: 
+#
+DEF CERAMIC-15PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-15PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010041" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-15PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010082
+# Technologies: 
+#
+DEF CERAMIC-15PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-15PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010082" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-18PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010016
+# Technologies: 
+#
+DEF CERAMIC-18PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-18PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010016" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-18PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010083
+# Technologies: 
+#
+DEF CERAMIC-18PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-18PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010083" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-18PF-50V-5%-NPO(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010162
+# Technologies: 
+#
+DEF CERAMIC-18PF-50V-5%-NPO(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-18PF-50V-5%-NPO(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010162" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-22NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010095
+# Technologies: 
+#
+DEF CERAMIC-22NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-22NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010095" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-22PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010018
+# Technologies: 
+#
+DEF CERAMIC-22PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-22PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010018" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-22PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010143
+# Technologies: 
+#
+DEF CERAMIC-22PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-22PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010143" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-22PF-50V-5%-NPO(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010151
+# Technologies: 
+#
+DEF CERAMIC-22PF-50V-5%-NPO(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-22PF-50V-5%-NPO(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010151" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-22UF-6.3V-20%-X5R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010171
+# Technologies: 
+#
+DEF CERAMIC-22UF-6.3V-20%-X5R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-22UF-6.3V-20%-X5R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010171" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-27PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010027
+# Technologies: 
+#
+DEF CERAMIC-27PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-27PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010027" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-27PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010142
+# Technologies: 
+#
+DEF CERAMIC-27PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-27PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010142" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-27PF-50V-5%-NPO(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010150
+# Technologies: 
+#
+DEF CERAMIC-27PF-50V-5%-NPO(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-27PF-50V-5%-NPO(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010150" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-33NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010088
+# Technologies: 
+#
+DEF CERAMIC-33NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-33NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010088" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-39PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010126
+# Technologies: 
+#
+DEF CERAMIC-39PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-39PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010126" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-47NF-25V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010002
+# Technologies: 
+#
+DEF CERAMIC-47NF-25V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-47NF-25V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010002" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-47UF-6.3V-20%-X5R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010166
+# Technologies: 
+#
+DEF CERAMIC-47UF-6.3V-20%-X5R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-47UF-6.3V-20%-X5R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010166" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-47UF-10V-20%-X7R(1210)
+# Package Name: C1210
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010252
+# Technologies: 
+#
+DEF CERAMIC-47UF-10V-20%-X7R(1210) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-47UF-10V-20%-X7R(1210)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C1210" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010252" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100NF-25V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010024
+# Technologies: 
+#
+DEF CERAMIC-100NF-25V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100NF-25V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010024" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100NF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010138
+# Technologies: 
+#
+DEF CERAMIC-100NF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100NF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010138" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100NF-50V-10%-X7R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010165
+# Technologies: 
+#
+DEF CERAMIC-100NF-50V-10%-X7R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100NF-50V-10%-X7R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010165" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010012
+# Technologies: 
+#
+DEF CERAMIC-100PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010012" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010076
+# Technologies: 
+#
+DEF CERAMIC-100PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010076" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-100UF-6.3V-20%-X5R(1206)
+# Package Name: C1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010183
+# Technologies: 
+#
+DEF CERAMIC-100UF-6.3V-20%-X5R(1206) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-100UF-6.3V-20%-X5R(1206)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010183" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-220NF-25V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010073
+# Technologies: 
+#
+DEF CERAMIC-220NF-25V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-220NF-25V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010073" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-220PF-50V-5%-NPO(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010013
+# Technologies: 
+#
+DEF CERAMIC-220PF-50V-5%-NPO(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-220PF-50V-5%-NPO(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010013" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-220PF-50V-5%-NPO(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010094
+# Technologies: 
+#
+DEF CERAMIC-220PF-50V-5%-NPO(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-220PF-50V-5%-NPO(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010094" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-470NF-10V-10%-X5R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010232
+# Technologies: 
+#
+DEF CERAMIC-470NF-10V-10%-X5R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-470NF-10V-10%-X5R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010232" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-470NF-25V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010092
+# Technologies: 
+#
+DEF CERAMIC-470NF-25V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-470NF-25V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010092" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-470PF-50V-5%-NP0(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010035
+# Technologies: 
+#
+DEF CERAMIC-470PF-50V-5%-NP0(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-470PF-50V-5%-NP0(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010035" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-470PF-100V-5%-NP0(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010130
+# Technologies: 
+#
+DEF CERAMIC-470PF-100V-5%-NP0(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-470PF-100V-5%-NP0(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010130" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-680PF-50V-10%-X7R(0402)
+# Package Name: C0402
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010009
+# Technologies: 
+#
+DEF CERAMIC-680PF-50V-10%-X7R(0402) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-680PF-50V-10%-X7R(0402)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0402" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010009" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-680PF-50V-10%-X7R(0603)
+# Package Name: C0603
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010072
+# Technologies: 
+#
+DEF CERAMIC-680PF-50V-10%-X7R(0603) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-680PF-50V-10%-X7R(0603)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0603" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010072" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CERAMIC-680PF-50V-10%-X7R(0805)
+# Package Name: C0805
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010163
+# Technologies: 
+#
+DEF CERAMIC-680PF-50V-10%-X7R(0805) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "CERAMIC-680PF-50V-10%-X7R(0805)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-C0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010163" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-ALUMINUM-100UF-16V(D5-H7MM)
+# Package Name: PC-D5.3MM
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302030031
+# Technologies: 
+#
+DEF DIP-ALUMINUM-100UF-16V(D5-H7MM) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "DIP-ALUMINUM-100UF-16V(D5-H7MM)" 50 150 50 H V L B
+F2 "OPL-Capacitor-PC-D5.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302030031" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CERAMIC-22PF-100V-5%-NPO(D5.0MM)
+# Package Name: CERAMIC-2.54
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010197
+# Technologies: 
+#
+DEF DIP-CERAMIC-22PF-100V-5%-NPO(D5.0MM) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "DIP-CERAMIC-22PF-100V-5%-NPO(D5.0MM)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-CERAMIC-2.54" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010197" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CERAMIC-DISC-10NF-50V-Y5V(D4.0MM)
+# Package Name: CERAMIC-2.54
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010202
+# Technologies: 
+#
+DEF DIP-CERAMIC-DISC-10NF-50V-Y5V(D4.0MM) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "DIP-CERAMIC-DISC-10NF-50V-Y5V(D4.0MM)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-CERAMIC-2.54" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010202" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CERAMIC-DISC-22PF-50V-10%-NPO(D4.0MM)
+# Package Name: CERAMIC-2.54
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010200
+# Technologies: 
+#
+DEF DIP-CERAMIC-DISC-22PF-50V-10%-NPO(D4.0MM) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "DIP-CERAMIC-DISC-22PF-50V-10%-NPO(D4.0MM)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-CERAMIC-2.54" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010200" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CERAMIC-DISC-100NF-50V-Y5V(D5.0MM)
+# Package Name: CERAMIC-2.54
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302010208
+# Technologies: 
+#
+DEF DIP-CERAMIC-DISC-100NF-50V-Y5V(D5.0MM) C 0 40 N N 1 L N
+F0 "C" -150 50 50 H V L B
+F1 "DIP-CERAMIC-DISC-100NF-50V-Y5V(D5.0MM)" -150 -100 50 H V L B
+F2 "OPL-Capacitor-CERAMIC-2.54" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302010208" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -25 -40 -25 0
+P 2 1 0 0 -25 0 -25 40
+P 2 1 0 0 25 40 25 0
+P 2 1 0 0 25 0 25 -40
+P 2 1 0 0 -50 0 -25 0
+P 2 1 0 0 25 0 50 0
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-2.2UF-16V(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020010
+# Technologies: 
+#
+DEF TANTALUM-SMD-2.2UF-16V(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-2.2UF-16V(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020010" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-4.7UF-16V(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020006
+# Technologies: 
+#
+DEF TANTALUM-SMD-4.7UF-16V(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-4.7UF-16V(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020006" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-10UF-10V-10%(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020011
+# Technologies: 
+#
+DEF TANTALUM-SMD-10UF-10V-10%(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-10UF-10V-10%(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020011" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-10UF-16V-10%(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020002
+# Technologies: 
+#
+DEF TANTALUM-SMD-10UF-16V-10%(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-10UF-16V-10%(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020002" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-10UF-16V-10%(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020019
+# Technologies: 
+#
+DEF TANTALUM-SMD-10UF-16V-10%(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-10UF-16V-10%(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020019" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-10UF-20V-20%(1206)
+# Package Name: CT1206
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020044
+# Technologies: 
+#
+DEF TANTALUM-SMD-10UF-20V-20%(1206) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-10UF-20V-20%(1206)" 50 150 50 H V L B
+F2 "OPL-Capacitor-CT1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020044" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-10UF-25V(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020012
+# Technologies: 
+#
+DEF TANTALUM-SMD-10UF-25V(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-10UF-25V(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020012" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-22UF-10V(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020008
+# Technologies: 
+#
+DEF TANTALUM-SMD-22UF-10V(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-22UF-10V(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020008" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-22UF-10V-10%(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020021
+# Technologies: 
+#
+DEF TANTALUM-SMD-22UF-10V-10%(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-22UF-10V-10%(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020021" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-22UF-16V(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020013
+# Technologies: 
+#
+DEF TANTALUM-SMD-22UF-16V(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-22UF-16V(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020013" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-22UF-25V-10%(AVX-C)
+# Package Name: AVX-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020026
+# Technologies: 
+#
+DEF TANTALUM-SMD-22UF-25V-10%(AVX-C) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-22UF-25V-10%(AVX-C)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-C" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020026" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-47UF-6.3V(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020005
+# Technologies: 
+#
+DEF TANTALUM-SMD-47UF-6.3V(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-47UF-6.3V(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020005" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-47UF-16V(AVX-C)
+# Package Name: AVX-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020022
+# Technologies: 
+#
+DEF TANTALUM-SMD-47UF-16V(AVX-C) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-47UF-16V(AVX-C)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-C" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020022" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-47UF-16V-10%(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020020
+# Technologies: 
+#
+DEF TANTALUM-SMD-47UF-16V-10%(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-47UF-16V-10%(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020020" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-100UF-6.3V(AVX-A)
+# Package Name: AVX-A
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020003
+# Technologies: 
+#
+DEF TANTALUM-SMD-100UF-6.3V(AVX-A) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-100UF-6.3V(AVX-A)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-A" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020003" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-100UF-10V(AVX-B)
+# Package Name: AVX-B
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020015
+# Technologies: 
+#
+DEF TANTALUM-SMD-100UF-10V(AVX-B) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-100UF-10V(AVX-B)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-B" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020015" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-100UF-10V-10%(AVX-C)
+# Package Name: AVX-C
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020025
+# Technologies: 
+#
+DEF TANTALUM-SMD-100UF-10V-10%(AVX-C) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-100UF-10V-10%(AVX-C)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-C" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020025" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-220UF-16V(AVX-E)
+# Package Name: AVX-E
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020032
+# Technologies: 
+#
+DEF TANTALUM-SMD-220UF-16V(AVX-E) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-220UF-16V(AVX-E)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-E" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020032" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TANTALUM-SMD-470UF-6.3V(AVX-D)
+# Package Name: AVX-D
+# Dev Tech: ''
+# Dev Prefix: C
+# Gate count = 1
+# Description: 302020027
+# Technologies: 
+#
+DEF TANTALUM-SMD-470UF-6.3V(AVX-D) C 0 40 N N 1 L N
+F0 "C" -250 150 50 H V L B
+F1 "TANTALUM-SMD-470UF-6.3V(AVX-D)" 50 150 50 H V L B
+F2 "OPL-Capacitor-AVX-D" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "302020027" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 -50 -100
+A 275 0 246 -2038 -1561 1 1 0 N 50 100 50 -100
+P 2 1 0 0 50 0 25 0
+T 0 -75 25 50 0 1 0 +
+T 0 75 25 50 0 1 0 -
+X + + -150 0 100 R 40 40 1 1 P 
+X - - 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

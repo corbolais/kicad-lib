@@ -1,0 +1,844 @@
+EESchema-LIBRARY Version 2.3  02/05/2015-06:39:22
+# Converted with eagle-lbr2kicad.ulp Version 0.93
+# Device count = 22
+#
+# Dev Name: CRYSTAL'3225'
+# Package Name: X4-SMD-3.2X2.5X0.7MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'3225' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'3225'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X4-SMD-3.2X2.5X0.7MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 2 -150 0 100 R 40 40 1 1 P 
+X 2 4 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'5032'
+# Package Name: X2-SMD-5.0X3.2X1.3MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'5032' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'5032'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-5.0X3.2X1.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'6914'
+# Package Name: X4-SMD-6.9X1.4X1.3MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'6914' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'6914'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X4-SMD-6.9X1.4X1.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 4 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'9133'
+# Package Name: X2-2.0-D9.1XL3.3MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'9133' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'9133'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-2.0-D9.1XL3.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'HC49UP'
+# Package Name: HC49UP
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'HC49UP' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'HC49UP'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49UP" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'HC49US'
+# Package Name: HC49US
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'HC49US' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'HC49US'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49US" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'NX2012SA'
+# Package Name: X2-SMD-L2.0X1.2X0.55MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'NX2012SA' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'NX2012SA'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-L2.0X1.2X0.55MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL'NX2520SA'
+# Package Name: X2-SMD-2.5X2.0X0.5MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL'NX2520SA' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL'NX2520SA'" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-2.5X2.0X0.5MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 3 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL-3215
+# Package Name: X2-SMD-3.2X1.5X0.55MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL-3215 X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL-3215" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-3.2X1.5X0.55MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL-OSCILLATOR
+# Package Name: OSC4-SMD-5.0X3.2X0.9MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL-OSCILLATOR X 0 40 Y Y 1 L N
+F0 "X" -500 250 50 H V L B
+F1 "CRYSTAL-OSCILLATOR" -150 250 50 H V L B
+F2 "OPL-crystal-osctllator-OSC4-SMD-5.0X3.2X0.9MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 50 100
+P 2 1 0 0 50 100 50 -100
+P 2 1 0 0 50 -100 -50 -100
+P 2 1 0 0 -50 -100 -50 100
+P 2 1 0 0 -100 -150 -100 -100
+P 2 1 0 0 -100 -100 -100 100
+P 2 1 0 0 -100 100 -100 150
+P 2 1 0 0 100 150 100 100
+P 2 1 0 0 100 100 100 -100
+P 2 1 0 0 100 -100 100 -150
+P 2 1 0 0 -500 -200 500 -200
+P 2 1 0 0 500 -200 500 200
+P 2 1 0 0 500 200 -500 200
+P 2 1 0 0 -500 200 -500 -200
+P 2 1 0 0 -550 100 -100 100
+P 2 1 0 0 -550 -100 -100 -100
+P 2 1 0 0 550 100 100 100
+P 2 1 0 0 550 -100 100 -100
+X ENABLE 1 -650 100 100 R 40 40 1 1 B 
+X GND 2 -650 -100 100 R 40 40 1 1 B 
+X OUT 3 650 -100 100 L 40 40 1 1 B 
+X VDD 4 650 100 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL-OSCILLATOR2.5*2.0
+# Package Name: OSC4-SMD-2.5X2.0X0.8MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF CRYSTAL-OSCILLATOR2.5*2.0 X 0 40 Y Y 1 L N
+F0 "X" -500 250 50 H V L B
+F1 "CRYSTAL-OSCILLATOR2.5*2.0" -150 250 50 H V L B
+F2 "OPL-crystal-osctllator-OSC4-SMD-2.5X2.0X0.8MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -50 100 50 100
+P 2 1 0 0 50 100 50 -100
+P 2 1 0 0 50 -100 -50 -100
+P 2 1 0 0 -50 -100 -50 100
+P 2 1 0 0 -100 -150 -100 -100
+P 2 1 0 0 -100 -100 -100 100
+P 2 1 0 0 -100 100 -100 150
+P 2 1 0 0 100 150 100 100
+P 2 1 0 0 100 100 100 -100
+P 2 1 0 0 100 -100 100 -150
+P 2 1 0 0 -500 -200 500 -200
+P 2 1 0 0 500 -200 500 200
+P 2 1 0 0 500 200 -500 200
+P 2 1 0 0 -500 200 -500 -200
+P 2 1 0 0 -550 100 -100 100
+P 2 1 0 0 -550 -100 -100 -100
+P 2 1 0 0 550 100 100 100
+P 2 1 0 0 550 -100 100 -100
+X ENABLE 1 -650 100 100 R 40 40 1 1 B 
+X GND 2 -650 -100 100 R 40 40 1 1 B 
+X OUT 3 650 -100 100 L 40 40 1 1 B 
+X VDD 4 650 100 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: CRYSTAL-RESONATOR'SMD'
+# Package Name: X3-SMD-3.6X1.3X0.8MM
+# Dev Tech: ''
+# Dev Prefix: X
+# Gate count = 1
+# Description: <b>Resonator</b>Small SMD resonator. This is the itty bitty 10/20MHz resonators with built in caps. CSTCE10M0G55 and CSTCE20M0V53. Footprint has been reviewed closely but hasn't been tested yet.
+# Technologies: 
+#
+DEF CRYSTAL-RESONATOR'SMD' X 0 40 Y Y 1 L N
+F0 "X" -100 100 50 H V L B
+F1 "CRYSTAL-RESONATOR'SMD'" -100 -400 50 H V L B
+F2 "OPL-crystal-osctllator-X3-SMD-3.6X1.3X0.8MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "<b>Resonator</b>Small SMD resonator. This is the itty bitty 10/20MHz resonators with built in caps. CSTCE10M0G55 and CSTCE20M0V53. Footprint has been reviewed closely but hasn't been tested yet." 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 100 0
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+P 2 1 0 0 100 0 100 -80
+P 2 1 0 0 130 -80 100 -80
+P 2 1 0 0 100 -80 70 -80
+P 2 1 0 0 130 -120 100 -120
+P 2 1 0 0 100 -120 70 -120
+P 2 1 0 0 100 -120 100 -200
+P 2 1 0 0 -70 -120 -100 -120
+P 2 1 0 0 -100 -120 -130 -120
+P 2 1 0 0 -100 -120 -100 -200
+P 2 1 0 0 -70 -80 -100 -80
+P 2 1 0 0 -100 -80 -130 -80
+P 2 1 0 0 -100 -80 -100 0
+P 2 1 0 0 100 -200 0 -200
+P 2 1 0 0 0 -200 -100 -200
+P 2 1 0 0 0 -200 0 -300
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 0 -300 0 U 40 40 1 1 P 
+X 3 3 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CRYSTAL-6MHZ-32PF-30PPM-100R(HC49US)
+# Package Name: HC49US
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010044
+# Technologies: 
+#
+DEF DIP-CRYSTAL-6MHZ-32PF-30PPM-100R(HC49US) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "DIP-CRYSTAL-6MHZ-32PF-30PPM-100R(HC49US)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49US" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010044" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CRYSTAL-8MHZ-20PF-20PPM-60R(HC49US)
+# Package Name: HC49US
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010033
+# Technologies: 
+#
+DEF DIP-CRYSTAL-8MHZ-20PF-20PPM-60R(HC49US) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "DIP-CRYSTAL-8MHZ-20PF-20PPM-60R(HC49US)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49US" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010033" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CRYSTAL-16MHZ-18PF-30PPM-50R(HC49US)
+# Package Name: HC49US
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010037
+# Technologies: 
+#
+DEF DIP-CRYSTAL-16MHZ-18PF-30PPM-50R(HC49US) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "DIP-CRYSTAL-16MHZ-18PF-30PPM-50R(HC49US)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49US" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010037" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: DIP-CRYSTAL-25MHZ-20PF-20PPM(HC49US)
+# Package Name: HC49US
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010005
+# Technologies: 
+#
+DEF DIP-CRYSTAL-25MHZ-20PF-20PPM(HC49US) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "DIP-CRYSTAL-25MHZ-20PF-20PPM(HC49US)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-HC49US" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010005" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-8MHZ--0.3%-150R(3P-3.6X1.3MM)
+# Package Name: X3-SMD-3.6X1.3X0.8MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010053
+# Technologies: 
+#
+DEF SMD-CRYSTAL-8MHZ--0.3%-150R(3P-3.6X1.3MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "SMD-CRYSTAL-8MHZ--0.3%-150R(3P-3.6X1.3MM)" -100 -400 50 H V L B
+F2 "OPL-crystal-osctllator-X3-SMD-3.6X1.3X0.8MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010053" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 100 0
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+P 2 1 0 0 100 0 100 -80
+P 2 1 0 0 130 -80 100 -80
+P 2 1 0 0 100 -80 70 -80
+P 2 1 0 0 130 -120 100 -120
+P 2 1 0 0 100 -120 70 -120
+P 2 1 0 0 100 -120 100 -200
+P 2 1 0 0 -70 -120 -100 -120
+P 2 1 0 0 -100 -120 -130 -120
+P 2 1 0 0 -100 -120 -100 -200
+P 2 1 0 0 -70 -80 -100 -80
+P 2 1 0 0 -100 -80 -130 -80
+P 2 1 0 0 -100 -80 -100 0
+P 2 1 0 0 100 -200 0 -200
+P 2 1 0 0 0 -200 -100 -200
+P 2 1 0 0 0 -200 0 -300
+X 1 1 -100 0 0 R 40 40 1 1 P 
+X 2 2 0 -300 0 U 40 40 1 1 P 
+X 3 3 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-8MHZ-20PF-20PPM(4P-5.0X3.2MM)
+# Package Name: X4-SMD-5.0X3.2X0.7MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010004
+# Technologies: 
+#
+DEF SMD-CRYSTAL-8MHZ-20PF-20PPM(4P-5.0X3.2MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 300 50 H V L B
+F1 "SMD-CRYSTAL-8MHZ-20PF-20PPM(4P-5.0X3.2MM)" -100 -300 50 H V L B
+F2 "OPL-crystal-osctllator-X4-SMD-5.0X3.2X0.7MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010004" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 -296 200 296 200
+P 2 1 0 0 296 200 296 -200
+P 2 1 0 0 296 -200 -296 -200
+P 2 1 0 0 -296 -200 -296 200
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 -70
+P 2 1 0 0 -40 70 -40 -70
+P 2 1 0 0 -50 0 -200 0
+P 2 1 0 0 -200 0 -200 200
+P 2 1 0 0 50 0 200 0
+P 2 1 0 0 200 0 200 -200
+X 1 1 200 -300 100 U 40 40 1 1 B 
+X 2 2 -200 -300 100 U 40 40 1 1 B 
+X 3 3 -200 300 100 D 40 40 1 1 B 
+X 4 4 200 300 100 D 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-12MHZ-20PF-20PPM-40R(2P-5.0X3.2MM)
+# Package Name: X2-SMD-5.0X3.2X1.3MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010047
+# Technologies: 
+#
+DEF SMD-CRYSTAL-12MHZ-20PF-20PPM-40R(2P-5.0X3.2MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "SMD-CRYSTAL-12MHZ-20PF-20PPM-40R(2P-5.0X3.2MM)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-5.0X3.2X1.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010047" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-16MHZ-8PF-20PPM-40R(2P-5.0X3.2MM)
+# Package Name: X2-SMD-5.0X3.2X1.3MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010054
+# Technologies: 
+#
+DEF SMD-CRYSTAL-16MHZ-8PF-20PPM-40R(2P-5.0X3.2MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "SMD-CRYSTAL-16MHZ-8PF-20PPM-40R(2P-5.0X3.2MM)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-5.0X3.2X1.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010054" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-32.768KHZ-12.5PF-20PPM-90K(2P-L2.0X1.2MM)
+# Package Name: X2-SMD-L2.0X1.2X0.55MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010020
+# Technologies: 
+#
+DEF SMD-CRYSTAL-32.768KHZ-12.5PF-20PPM-90K(2P-L2.0X1.2MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "SMD-CRYSTAL-32.768KHZ-12.5PF-20PPM-90K(2P-L2.0X1.2MM)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-L2.0X1.2X0.55MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010020" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-CRYSTAL-ABS07-32.768KHZ-7PF-20PPM-70K(2P-3.2X1.5MM)
+# Package Name: X2-SMD-3.2X1.5X0.55MM
+# Dev Tech: ''
+# Dev Prefix: Y
+# Gate count = 1
+# Description: 306010055
+# Technologies: 
+#
+DEF SMD-CRYSTAL-ABS07-32.768KHZ-7PF-20PPM-70K(2P-3.2X1.5MM) Y 0 40 Y Y 1 L N
+F0 "Y" -100 100 50 H V L B
+F1 "SMD-CRYSTAL-ABS07-32.768KHZ-7PF-20PPM-70K(2P-3.2X1.5MM)" -100 -150 50 H V L B
+F2 "OPL-crystal-osctllator-X2-SMD-3.2X1.5X0.55MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "306010055" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+P 2 1 0 0 40 0 50 0
+P 2 1 0 0 -50 0 -40 0
+P 2 1 0 0 -15 60 -15 -60
+P 2 1 0 0 -15 -60 15 -60
+P 2 1 0 0 15 -60 15 60
+P 2 1 0 0 15 60 -15 60
+P 2 1 0 0 40 70 40 0
+P 2 1 0 0 40 0 40 -70
+P 2 1 0 0 -40 70 -40 0
+P 2 1 0 0 -40 0 -40 -70
+T 0 -68 -28 34 0 1 0 1
+T 0 77 -28 34 0 1 0 2
+X 1 1 -150 0 100 R 40 40 1 1 P 
+X 2 2 150 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

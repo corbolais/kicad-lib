@@ -1,0 +1,480 @@
+EESchema-LIBRARY Version 2.3  02/05/2015-06:40:14
+# Converted with eagle-lbr2kicad.ulp Version 0.93
+# Device count = 17
+#
+# Dev Name: DIP-PPTC-2.5A-30V(D11.4MM)
+# Package Name: F2-5.1-11.4X3.0X18.3MM
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010009
+# Technologies: 
+#
+DEF DIP-PPTC-2.5A-30V(D11.4MM) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "DIP-PPTC-2.5A-30V(D11.4MM)" -150 -100 50 H V L B
+F2 "OPL-fuse-F2-5.1-11.4X3.0X18.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010009" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'1206'
+# Package Name: F1206
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'1206' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'1206'" -150 -100 50 H V L B
+F2 "OPL-fuse-F1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'1210'
+# Package Name: F1210
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'1210' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'1210'" -150 -100 50 H V L B
+F2 "OPL-fuse-F1210" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'1812'
+# Package Name: F1812
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'1812' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'1812'" -150 -100 50 H V L B
+F2 "OPL-fuse-F1812" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'RLD16P500GF'
+# Package Name: F2-5.1-10.4X3.0X14.3MM
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'RLD16P500GF' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'RLD16P500GF'" -150 -100 50 H V L B
+F2 "OPL-fuse-F2-5.1-10.4X3.0X14.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'RLD30P250UF'
+# Package Name: F2-5.1-11.4X3.0X18.3MM
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'RLD30P250UF' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'RLD30P250UF'" -150 -100 50 H V L B
+F2 "OPL-fuse-F2-5.1-11.4X3.0X18.3MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE'RLD60P250XF'
+# Package Name: F2-5.1-21.3X3.1X26.4MM
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE'RLD60P250XF' F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE'RLD60P250XF'" -150 -100 50 H V L B
+F2 "OPL-fuse-F2-5.1-21.3X3.1X26.4MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSE500MA
+# Package Name: F3366
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSE500MA F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSE500MA" -150 -100 50 H V L B
+F2 "OPL-fuse-F3366" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSEGLASS
+# Package Name: F2-22.5-D2.3XL22.6MM
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSEGLASS F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSEGLASS" -150 -100 50 H V L B
+F2 "OPL-fuse-F2-22.5-D2.3XL22.6MM" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: FUSESMD2920
+# Package Name: F2920
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF FUSESMD2920 F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "FUSESMD2920" -150 -100 50 H V L B
+F2 "OPL-fuse-F2920" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: PPTC-500MA(1206)
+# Package Name: F1206
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010002
+# Technologies: 
+#
+DEF PPTC-500MA(1206) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "PPTC-500MA(1206)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010002" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD PPTC 100A-6V(0805)
+# Package Name: F0805
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010046
+# Technologies: 
+#
+DEF SMD PPTC 100A-6V(0805) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD PPTC 100A-6V(0805)" -150 -100 50 H V L B
+F2 "OPL-fuse-F0805" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010046" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD PPTC 100A-6V(1206)
+# Package Name: F1206
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010047
+# Technologies: 
+#
+DEF SMD PPTC 100A-6V(1206) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD PPTC 100A-6V(1206)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010047" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-PPTC-500MA-15V(1812)
+# Package Name: F1812
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010007
+# Technologies: 
+#
+DEF SMD-PPTC-500MA-15V(1812) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD-PPTC-500MA-15V(1812)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1812" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010007" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-PPTC-750MA-6V(1210)
+# Package Name: F1210
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010010
+# Technologies: 
+#
+DEF SMD-PPTC-750MA-6V(1210) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD-PPTC-750MA-6V(1210)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1210" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010010" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-PPTC-750MA-13.2V(1206)
+# Package Name: F1206
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010013
+# Technologies: 
+#
+DEF SMD-PPTC-750MA-13.2V(1206) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD-PPTC-750MA-13.2V(1206)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010013" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: SMD-PPTC-1000MA-8V(1206)
+# Package Name: F1206
+# Dev Tech: ''
+# Dev Prefix: F
+# Gate count = 1
+# Description: 307010001
+# Technologies: 
+#
+DEF SMD-PPTC-1000MA-8V(1206) F 0 40 Y N 1 L N
+F0 "F" -150 100 50 H V L B
+F1 "SMD-PPTC-1000MA-8V(1206)" -150 -100 50 H V L B
+F2 "OPL-fuse-F1206" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "307010001" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+A 15 15 57 -1051 1951 1 1 0 N 0 -40 -40 0
+A -15 15 57 -151 2851 1 1 0 N 40 0 0 -40
+P 2 1 0 0 -100 0 -40 0
+P 2 1 0 0 100 0 40 0
+X 1 1 -200 0 100 R 40 40 1 1 B 
+X 2 2 200 0 100 L 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library

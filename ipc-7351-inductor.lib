@@ -1,0 +1,204 @@
+EESchema-LIBRARY Version 2.3  02/05/2015-06:55:34
+# Converted with eagle-lbr2kicad.ulp Version 0.93
+# Device count = 8
+#
+# Dev Name: INDUCTOR_0402
+# Package Name: INDC1005X60N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_0402 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_0402" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC1005X60N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_0603
+# Package Name: INDC1608X95N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_0603 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_0603" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC1608X95N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_1008
+# Package Name: INDC2520X220N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_1008 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_1008" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC2520X220N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_1210
+# Package Name: INDC3225X135N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_1210 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_1210" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC3225X135N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_1806
+# Package Name: INDC4509X190N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_1806 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_1806" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC4509X190N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_1812
+# Package Name: INDC4532X175N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_1812 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_1812" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC4532X175N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_2220
+# Package Name: INDC5750X180N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_2220 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_2220" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC5750X180N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: INDUCTOR_2520
+# Package Name: INDC6350X200N
+# Dev Tech: ''
+# Dev Prefix: L
+# Gate count = 1
+# Description: 
+# Technologies: 
+#
+DEF INDUCTOR_2520 L 0 40 N N 1 L N
+F0 "L" -100 60 50 H V L B
+F1 "INDUCTOR_2520" -100 -130 50 H V L B
+F2 "ipc-7351-inductor-INDC6350X200N" 0 150 50 H I C C
+F3 "" 0 0 60 H V C CNN
+F4 "NIL" 0 0 60 H I C CNN "Desc"
+F5 "NIL" 0 0 60 H I C CNN "MFG NO"
+F6 "NIL" 0 0 60 H I C CNN "MFR"
+F7 "NIL" 0 0 60 H I C CNN "Notes"
+DRAW
+S -40 -140 40 140 1 1 0 F
+X 1 1 -200 0 100 R 40 40 1 1 P 
+X 2 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library
