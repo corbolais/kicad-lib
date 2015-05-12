@@ -1,0 +1,10 @@
+(module TESTPOINT-TP2.1x1mm_Square_HandSolder (layer F.Cu) (tedit 55520F0C)
+  (attr virtual)
+  (fp_text reference REF** (at 0 -1.27) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.2 0.2) (thickness 0.01)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 2.1 2.1) (drill 1) (layers *.Cu *.Mask F.SilkS))
+)
